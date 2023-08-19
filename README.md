@@ -1,4 +1,4 @@
-# chaty
+# movieapp
 
 A new Flutter project.
 
